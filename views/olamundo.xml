@@ -9,7 +9,6 @@
         <p class="o_view_nocontent_smiling_face">Tes que crear o primeiro rexistro</p>
       </field>
     </record>
-
     <record model="ir.ui.view" id="olamundo_form_view">
       <field name="name">olamundo.form</field>
       <field name="model">odoo_olamundo.olamundo</field>
